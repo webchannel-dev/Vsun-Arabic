@@ -24,7 +24,7 @@
                 </li>
                 <li style="white-space: normal; float: left; width: 100%;"><a href="#" class="sf-with-ul" style="float: none; width: auto;">الملحقات<span class="sf-sub-indicator">
                             <i class="fa fa-angle-down"></i></span></a>
-                    <ul class="sub-menu" style="right: 12.084615384615387em; float: none; width: 10em; display: none; visibility: hidden;">
+                    <ul class="sub-menu" style="right: 10.084615384615387em; float: none; width: 10em; display: none; visibility: hidden;">
                         <li style="white-space: normal; float: right; width: 100%;"><a href="Battery.php" style="float: none; width: auto;">بطارية</a></li>
                         <li style="white-space: normal; float: right; width: 100%;"><a href="Charger.php" style="float: none; width: auto;">شاحن</a></li>
                         <li style="white-space: normal; float: right; width: 100%;"><a href="Cover.php" style="float: none; width: auto;">غطاء</a></li>

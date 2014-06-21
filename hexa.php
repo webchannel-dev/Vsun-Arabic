@@ -99,13 +99,14 @@
                     <div class="container">
                         <div class="pageTitle">
                             <span class="page_title" style="padding-left:200px; margin-top:-5px;">
-                                <a href="hexa.php">فيسن هکزا</a>
-                                &nbsp;<&nbsp;
-                                <a href="#">الهواتف الذكية</a>
-                                &nbsp;<&nbsp;
+                                <a href="index.php">الصفحة الرئيسية</a>
+                                &nbsp;>&nbsp;
                                 <a href="#">المنتجات</a>
-                                &nbsp;<&nbsp;
-                                <a href="index.php">الصفحة الرئيسية</a></span>
+                                &nbsp;>&nbsp;
+                                <a href="#">الهواتف الذكية</a>
+                                &nbsp;>&nbsp;
+                                <a href="hexa.php">فيسن هکزا</a>
+                            </span>
                         </div>
                     </div>
                 </div>
