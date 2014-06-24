@@ -278,14 +278,14 @@
                     <div class="containerbg" style="background-image: url(img/parallax/bg1.jpg); height:1272px;;">
                         <div class="container">
                             <div>
-                                <img  src="img/parallax/feelslike.jpg" style=" padding-top:100px;">
+                                <img  src="img/parallax/feelslike.jpg" style=" padding-top:50px;">
                             </div>
                         </div>
                     </div>
                     <div class="containerbg"  style="background-image: url(img/parallax/nbg-2.jpg); height:872px;">
                         <div class="container">
                             <div>
-                                <img  src="img/parallax/live.jpg" style=" padding-top:600px;">
+                                <img  src="img/parallax/live.jpg" style=" padding-top:650px; padding-right: 180px;">
                             </div>
                         </div>
                     </div>
